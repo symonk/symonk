@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Restpite
-- 🌱 I’m currently learning The python data object model
+- 🔭 I’m currently working on Empheral (Python plugin based extendible port scanner!).
+- 🌱 I’m currently learning Pythons data object model.
