@@ -1,6 +1,6 @@
 ### Bout ye? 👋
 
-- 🔭 I’m currently working on: zonic, the extendible plugin based port scanner
+- 🔭 I’m currently working on: zonic, a simple yet powerful python port scanner
   - pytest development.
   - Restpite (Python DSL for testing restful APIs).
   - Sylenium (Selenium wrapper for testing user interfaces).
