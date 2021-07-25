@@ -1,6 +1,8 @@
 ### Bout ye? 👋
 
-- 🔭 I’m currently working on: Restpite - Python DSL for communicating with restful apis.
-  - Pytest core development.
+- 🔭 Currently working on: `Restpite` a `httpx` wrapper library for testing restful services.
+  - Pytest development.
+  - Documenting everything I learn.
 - 🌱 I’m currently learning: Pythons data object model.
+  - Set theory.
 - 📗 I'm currently reading: Fluent Python 2nd edition.
