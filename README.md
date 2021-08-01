@@ -6,5 +6,6 @@
 - 🌱 I’m currently learning:
   - `Set Theory`.
   - `contextlib`.
+  - `asynchronous programming in python`.
   - pythons `data model`.
 - 📗 I'm currently reading: `Fluent Python 2nd edition`.
