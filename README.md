@@ -4,7 +4,7 @@
   - `Pytest` development.
   - `Zentinel` An asynchronous port scanner.
   - `Restpite` A python DSL for HTTP
-  - Documenting everything I learn here: https://symonk-pydocs.readthedocs.io/en/latest/index.html
+  - `pydocs` A website documenting my python learning: https://symonk-pydocs.readthedocs.io/en/latest/index.html
 - 🌱 I’m currently learning:
   - `set theory`.
   - `contextlib`.
