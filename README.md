@@ -1,11 +1,13 @@
 ### Hi There! 👋
 
 - 🔭 Currently working on: `Restpite` a `httpx` wrapper library for testing restful services to better understand `async` concepts.
-  - `Pytest` core contributions
+  - `Pytest` development.
+  - `Zentinel` An asynchronous port scanner.
+  - `Restpite` A python DSL for HTTP
   - Documenting everything I learn here: https://symonk-pydocs.readthedocs.io/en/latest/index.html
 - 🌱 I’m currently learning:
-  - `Set Theory`.
+  - `set theory`.
   - `contextlib`.
-  - `asynchronous programming in python`.
-  - pythons `data model`.
+  - `asyncio`,
+  - `descriptor protocol`
 - 📗 I'm currently reading: `Fluent Python 2nd edition`.
