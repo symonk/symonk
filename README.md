@@ -9,6 +9,5 @@
   - `set theory`,
   - `contextlib`,
   - `asyncio`,
-  - `descriptor protocol`.
 - 📗 I'm currently reading: 
   - `Fluent Python 2nd edition`.
