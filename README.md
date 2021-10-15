@@ -7,5 +7,7 @@
   - `pydocs` A website documenting my python learning: https://symonk-pydocs.readthedocs.io/en/latest/index.html.
   - General python design principles and patterns.
 
-====================================================================================================================
+
+-----
+
 - 📗 Reading: `Fluent python 2nd edition`. [ ]
