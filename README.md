@@ -2,6 +2,7 @@
 
 - 🔭 Currently working on:
   - `Pytest` development.
+  - `mailie` A python DSL and CLI for email.
   - `Zentinel` An asynchronous port scanner.
   - `Restpite` A python DSL for restful services.
   - `pydocs` A website documenting my python learning: https://symonk-pydocs.readthedocs.io/en/latest/index.html.
