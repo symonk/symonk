@@ -7,4 +7,4 @@ I am currently focusing on:
  - `asserto` - Python assertions made quick & easy.
  - `selenium` - Maintaining the python bindings.
  - `pycdp` - An implementation of the chrome devtools protocol.
- - `interia` - An automation framework built on top of playwright
+ - `inertia` - An automation framework built on top of playwright
