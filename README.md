@@ -6,6 +6,7 @@ I am currently focusing on:
 
  - `selenium` - Maintaining the python bindings.
  - `asserto` - Python assertions made quick & easy.
+ - `climap` - A rich command line utility for retrieving emails via IMAP.
 
 -----
 
