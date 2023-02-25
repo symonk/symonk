@@ -15,6 +15,6 @@ My Learning Roadmap for 2023:
  - `javascript`.
  - `reactjs`.
  - `sql`.
- - Achieve an AWS certification.
+ - Achieve AWS cloud practitioner certification (in progress)
  - continue advancing knowledge with `docker`.
  - continue advancing knowledge with `python`.
