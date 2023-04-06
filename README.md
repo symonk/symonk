@@ -6,7 +6,7 @@ I am currently focusing on:
 
  - `selenium` - Maintaining the python bindings.
  - `asserto` - Python assertions made quick & easy.
- - `climap` - A rich command line utility for retrieving emails via IMAP.
+ - `pytest-containers` - A pytest plugin for starting docker compose services around tests.
  - `python-cdp` - A python client generator for the chrome devtools protocol.
 
 -----
