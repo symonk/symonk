@@ -14,6 +14,7 @@ I am currently focusing on:
 My Learning Roadmap for 2023:
 
  - `javascript`.
+ - `go`.
  - `reactjs`.
  - `sql`.
  - Achieve AWS cloud practitioner certification (in progress)
