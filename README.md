@@ -14,9 +14,9 @@ I am currently focusing on:
 My Learning Roadmap for 2023:
 
  - `javascript`.
- - `go`. [repository](https://github.com/symonk/learning-golang)
+ - `go`. [Repository](https://github.com/symonk/learning-golang)
  - `reactjs`.
- - `sql`.
+ - `sql`. [Repository](https://github.com/symonk/learning-sql)
  - Achieve AWS cloud practitioner certification (in progress)
  - continue advancing knowledge with `docker`.
  - continue advancing knowledge with `python`.
