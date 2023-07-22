@@ -4,7 +4,7 @@
 
 I am currently focusing on:
 
- - `selenium` - Maintaining the python bindings.
+ - `selenium` - Working on the python bindings.
  - `asserto` - Python assertions made quick & easy.
  - `pytest-containers` - A pytest plugin for starting docker compose services around tests.
  - `python-cdp` - A python client generator for the chrome devtools protocol.
