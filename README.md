@@ -17,5 +17,6 @@ My Learning Roadmap for 2023:
  - `go`. [Repository](https://github.com/symonk/learning-golang)
  - `sql`. [Repository](https://github.com/symonk/learning-sql)
  - Achieve AWS cloud practitioner certification (Exam in September 2023)
- - continue advancing knowledge with `docker`.
- - continue advancing knowledge with `python`.
+ - continue advancing knowledge of `docker`.
+ - continue advancing knowledge of `python`.
+ - continue advancing knowledge of `golang`.
