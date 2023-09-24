@@ -23,5 +23,5 @@ My Learning Roadmap for 2023:
 
 -----
 
-Penetration testing is a core hobby of mine and I have enjoy finding vulnerabilities particular in
+Penetration testing is a core hobby of mine and I enjoy finding vulnerabilities particular in
 web applications and APIs.
