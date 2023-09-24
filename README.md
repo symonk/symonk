@@ -23,4 +23,5 @@ My Learning Roadmap for 2023:
 
 -----
 
-I have a big interest in penetration testing for web applications in particular.
+Penetration testing is a core hobby of mine and I have enjoy finding vulnerabilities particular in
+web applications and APIs.
