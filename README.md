@@ -20,3 +20,7 @@ My Learning Roadmap for 2023:
  - continue advancing knowledge of `docker`.
  - continue advancing knowledge of `python`.
  - continue advancing knowledge of `golang`.
+
+-----
+
+I have a big interest in penetration testing for web applications in particular.
