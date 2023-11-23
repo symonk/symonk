@@ -8,7 +8,7 @@ I am currently focusing on:
  - `asserto` - Python assertions made quick & easy.
  - `pytest-containers` - A pytest plugin for starting docker compose services around tests.
  - `python-cdp` - A python client generator for the chrome devtools protocol.
- - `rdsmon` - Python commandline utility for monitoring amazon web services RDS instance metrics.
+ - `rdsmon-go` - Golang commandline utility for monitoring amazon web services RDS instance metrics.
 
 -----
 
