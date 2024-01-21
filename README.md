@@ -15,7 +15,7 @@ I am currently focusing on:
 
 My Learning Roadmap for 2024:
 
- - `javascript, react`. [Repository](https://github.com/symonk/)
+ - `javascript`. [Repository](https://github.com/symonk/learning-js)
  - `go`. [Repository](https://github.com/symonk/learning-golang)
  - `sql`. [Repository](https://github.com/symonk/learning-sql)
  - `perl`. [Repository](https://github.com/symonk/learning-perl)
