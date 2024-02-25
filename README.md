@@ -7,9 +7,8 @@ I am currently focusing on:
  - `selenium` - Working on the python bindings.
  - `asserto` - Python assertions made quick & easy.
  - `pytest-containers` - A pytest plugin for starting docker compose services around tests.
- - `python-cdp` - A python client generator for the chrome devtools protocol.
- - `rdsmon-go` - Golang commandline utility for monitoring amazon web services RDS instance metrics.
  - `kafkapy` - A python CLI and set of utilities for inspection and managing kafka clusters.
+ - `pytest-playwright-enhanced` - A batteries included framework of playwright for pytest.
 
 -----
 
