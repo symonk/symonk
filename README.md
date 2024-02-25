@@ -18,7 +18,6 @@ My Learning Roadmap for 2024:
  - `javascript`. [Repository](https://github.com/symonk/learning-js)
  - `go`. [Repository](https://github.com/symonk/learning-golang)
  - `sql`. [Repository](https://github.com/symonk/learning-sql)
- - `perl`. [Repository](https://github.com/symonk/learning-perl)
  - Achieve AWS cloud practitioner certification.
  - continue advancing knowledge of `docker`.
  - continue advancing knowledge of `python`.
