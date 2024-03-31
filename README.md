@@ -9,6 +9,7 @@ I am currently focusing on:
  - `pytest-containers` - A pytest plugin for starting docker compose services around tests.
  - `kafkapy` - A python CLI and set of utilities for inspection and managing kafka clusters.
  - `pytest-playwright-enhanced` - A batteries included framework of playwright for pytest.
+ - `systemd-api` - Restful web service written in go for controlling `systemd` services.
 
 -----
 
