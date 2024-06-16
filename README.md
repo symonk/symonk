@@ -10,6 +10,7 @@ I am currently focusing on:
  - `kafkapy` - A python CLI and set of utilities for inspection and managing kafka clusters.
  - `pytest-playwright-enhanced` - A batteries included framework of playwright for pytest.
  - `tasq` - A scalable worker pool for distributed tasks in golang.
+ - `toodoo` - An open source task/todo management system written in go/nextjs.
 
 -----
 
