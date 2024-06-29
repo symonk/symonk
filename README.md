@@ -11,6 +11,7 @@ I am currently focusing on:
  - `pytest-playwright-enhanced` - A batteries included framework of playwright for pytest.
  - `tasq` - A scalable worker pool for distributed tasks in golang.
  - `toodoo` - An open source task/todo management system written in go/nextjs.
+ - `set` - A Hashset implementation for Go.
 
 -----
 
