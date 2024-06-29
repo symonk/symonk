@@ -17,13 +17,9 @@ I am currently focusing on:
 
 My Learning Roadmap for 2024:
 
- - `javascript`. [Repository](https://github.com/symonk/learning-js)
  - `go`. [Repository](https://github.com/symonk/learning-golang)
  - `sql`. [Repository](https://github.com/symonk/learning-sql)
  - Achieve AWS cloud practitioner certification.
- - continue advancing knowledge of `docker`.
- - continue advancing knowledge of `python`.
- - continue advancing knowledge of `golang`.
 
 -----
 
