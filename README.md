@@ -8,7 +8,7 @@ I am currently focusing on:
  - `asserto` - Python assertions made quick & easy.
  - `pytest-playwright-enhanced` - A batteries included framework of playwright for pytest.
  - `tasq` - A scalable worker pool for distributed tasks in golang.
- - `toodoo` - An open source task/todo management system written in go/nextjs.
+ - `log-analyse` - A highly parallel monitoring tool for log files.
  - `set` - A Hashset implementation for Go.
 
 -----
